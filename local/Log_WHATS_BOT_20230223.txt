@@ -1,0 +1,309 @@
+2023/02/23-15:48:24-Iniciado rotina
+2023/02/23-15:48:52-Iniciado rotina
+2023/02/23-15:50:07-Iniciado rotina
+2023/02/23-15:51:40-...
+2023/02/23-15:51:40-Iniciado rotina
+2023/02/23-15:52:02-...
+2023/02/23-15:52:02-Iniciado rotina
+2023/02/23-15:52:39-...
+2023/02/23-15:52:39-Iniciado rotina
+2023/02/23-16:39:45-Iniciado rotina
+2023/02/23-16:39:45-Trabalharei da linha 2 até a 50
+2023/02/23-16:41:23-Iniciado rotina
+2023/02/23-16:43:38-Iniciado rotina
+2023/02/23-16:43:38-Trabalhando na linha: 2
+2023/02/23-16:43:38-Trabalhando na linha: 3
+2023/02/23-16:43:38-Trabalhando na linha: 4
+2023/02/23-16:43:39-Trabalhando na linha: 5
+2023/02/23-16:43:39-Trabalhando na linha: 6
+2023/02/23-16:43:39-Trabalhando na linha: 7
+2023/02/23-16:43:39-Trabalhando na linha: 8
+2023/02/23-16:43:39-Trabalhando na linha: 9
+2023/02/23-16:43:39-Trabalhando na linha: 10
+2023/02/23-16:43:39-Trabalhando na linha: 11
+2023/02/23-16:43:39-Trabalhando na linha: 12
+2023/02/23-16:43:39-Trabalhando na linha: 13
+2023/02/23-16:43:40-Trabalhando na linha: 14
+2023/02/23-16:43:40-Trabalhando na linha: 15
+2023/02/23-16:43:40-Trabalhando na linha: 16
+2023/02/23-16:43:40-Trabalhando na linha: 17
+2023/02/23-16:43:40-Trabalhando na linha: 18
+2023/02/23-16:43:40-Trabalhando na linha: 19
+2023/02/23-16:43:40-Trabalhando na linha: 20
+2023/02/23-16:43:40-Trabalhando na linha: 21
+2023/02/23-16:43:40-Trabalhando na linha: 22
+2023/02/23-16:43:41-Trabalhando na linha: 23
+2023/02/23-16:43:41-Trabalhando na linha: 24
+2023/02/23-16:43:41-Trabalhando na linha: 25
+2023/02/23-16:43:41-Trabalhando na linha: 26
+2023/02/23-16:43:41-Trabalhando na linha: 27
+2023/02/23-16:43:41-Trabalhando na linha: 28
+2023/02/23-16:43:41-Trabalhando na linha: 29
+2023/02/23-16:43:41-Trabalhando na linha: 30
+2023/02/23-16:43:41-Trabalhando na linha: 31
+2023/02/23-16:43:42-Trabalhando na linha: 32
+2023/02/23-16:43:42-Trabalhando na linha: 33
+2023/02/23-16:43:42-Trabalhando na linha: 34
+2023/02/23-16:43:42-Trabalhando na linha: 35
+2023/02/23-16:43:42-Trabalhando na linha: 36
+2023/02/23-16:43:42-Trabalhando na linha: 37
+2023/02/23-16:43:42-Trabalhando na linha: 38
+2023/02/23-16:43:42-Trabalhando na linha: 39
+2023/02/23-16:43:42-Trabalhando na linha: 40
+2023/02/23-16:43:43-Trabalhando na linha: 41
+2023/02/23-16:43:43-Trabalhando na linha: 42
+2023/02/23-16:43:43-Trabalhando na linha: 43
+2023/02/23-16:43:43-Trabalhando na linha: 44
+2023/02/23-16:43:43-Trabalhando na linha: 45
+2023/02/23-16:43:43-Trabalhando na linha: 46
+2023/02/23-16:43:43-Trabalhando na linha: 47
+2023/02/23-16:43:43-Trabalhando na linha: 48
+2023/02/23-16:43:43-Trabalhando na linha: 49
+2023/02/23-16:44:15-Iniciado rotina
+2023/02/23-16:44:15-Trabalhando na linha: 2
+2023/02/23-16:44:15-Trabalhando na linha: 3
+2023/02/23-16:44:16-Trabalhando na linha: 4
+2023/02/23-16:44:16-Trabalhando na linha: 5
+2023/02/23-16:44:16-Trabalhando na linha: 6
+2023/02/23-16:44:16-Trabalhando na linha: 7
+2023/02/23-16:44:16-Trabalhando na linha: 8
+2023/02/23-16:44:16-Trabalhando na linha: 9
+2023/02/23-16:44:16-Trabalhando na linha: 10
+2023/02/23-16:44:16-Trabalhando na linha: 11
+2023/02/23-16:44:16-Trabalhando na linha: 12
+2023/02/23-16:44:17-Trabalhando na linha: 13
+2023/02/23-16:44:17-Trabalhando na linha: 14
+2023/02/23-16:44:17-Trabalhando na linha: 15
+2023/02/23-16:44:17-Trabalhando na linha: 16
+2023/02/23-16:44:17-Trabalhando na linha: 17
+2023/02/23-16:44:17-Trabalhando na linha: 18
+2023/02/23-16:44:17-Trabalhando na linha: 19
+2023/02/23-16:44:17-Trabalhando na linha: 20
+2023/02/23-16:44:17-Trabalhando na linha: 21
+2023/02/23-16:44:18-Trabalhando na linha: 22
+2023/02/23-16:44:18-Trabalhando na linha: 23
+2023/02/23-16:44:18-Trabalhando na linha: 24
+2023/02/23-16:44:18-Trabalhando na linha: 25
+2023/02/23-16:44:18-Trabalhando na linha: 26
+2023/02/23-16:44:18-Trabalhando na linha: 27
+2023/02/23-16:44:18-Trabalhando na linha: 28
+2023/02/23-16:44:18-Trabalhando na linha: 29
+2023/02/23-16:44:18-Trabalhando na linha: 30
+2023/02/23-16:44:19-Trabalhando na linha: 31
+2023/02/23-16:44:19-Trabalhando na linha: 32
+2023/02/23-16:44:19-Trabalhando na linha: 33
+2023/02/23-16:44:19-Trabalhando na linha: 34
+2023/02/23-16:44:19-Trabalhando na linha: 35
+2023/02/23-16:44:19-Trabalhando na linha: 36
+2023/02/23-16:44:19-Trabalhando na linha: 37
+2023/02/23-16:44:19-Trabalhando na linha: 38
+2023/02/23-16:44:19-Trabalhando na linha: 39
+2023/02/23-16:44:20-Trabalhando na linha: 40
+2023/02/23-16:44:20-Trabalhando na linha: 41
+2023/02/23-16:44:20-Trabalhando na linha: 42
+2023/02/23-16:44:20-Trabalhando na linha: 43
+2023/02/23-16:44:20-Trabalhando na linha: 44
+2023/02/23-16:44:20-Trabalhando na linha: 45
+2023/02/23-16:44:20-Trabalhando na linha: 46
+2023/02/23-16:44:20-Trabalhando na linha: 47
+2023/02/23-16:44:20-Trabalhando na linha: 48
+2023/02/23-16:44:21-Trabalhando na linha: 49
+2023/02/23-16:44:21-Trabalhando na linha: 50
+2023/02/23-16:48:42-Iniciado rotina
+2023/02/23-16:48:42-Trabalhando na linha: 2
+2023/02/23-16:48:42-Fone:5541995789107, Nome:israel, Texto:teste1
+2023/02/23-16:48:42-Trabalhando na linha: 3
+2023/02/23-16:48:42-Fone:5541995789107, Nome:glixinski, Texto:teste2
+2023/02/23-16:48:42-Trabalhando na linha: 4
+2023/02/23-16:48:42-Fone:5541995789107, Nome:ultimo, Texto:teste2
+2023/02/23-16:48:42-Trabalhando na linha: 5
+2023/02/23-16:48:42-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:43-Trabalhando na linha: 6
+2023/02/23-16:48:43-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:43-Trabalhando na linha: 7
+2023/02/23-16:48:43-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:43-Trabalhando na linha: 8
+2023/02/23-16:48:43-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:43-Trabalhando na linha: 9
+2023/02/23-16:48:43-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:43-Trabalhando na linha: 10
+2023/02/23-16:48:43-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:43-Trabalhando na linha: 11
+2023/02/23-16:48:43-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:43-Trabalhando na linha: 12
+2023/02/23-16:48:43-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:43-Trabalhando na linha: 13
+2023/02/23-16:48:43-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:43-Trabalhando na linha: 14
+2023/02/23-16:48:43-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:44-Trabalhando na linha: 15
+2023/02/23-16:48:44-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:44-Trabalhando na linha: 16
+2023/02/23-16:48:44-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:44-Trabalhando na linha: 17
+2023/02/23-16:48:44-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:44-Trabalhando na linha: 18
+2023/02/23-16:48:44-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:44-Trabalhando na linha: 19
+2023/02/23-16:48:44-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:44-Trabalhando na linha: 20
+2023/02/23-16:48:44-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:44-Trabalhando na linha: 21
+2023/02/23-16:48:44-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:44-Trabalhando na linha: 22
+2023/02/23-16:48:44-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:44-Trabalhando na linha: 23
+2023/02/23-16:48:44-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:45-Trabalhando na linha: 24
+2023/02/23-16:48:45-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:45-Trabalhando na linha: 25
+2023/02/23-16:48:45-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:45-Trabalhando na linha: 26
+2023/02/23-16:48:45-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:45-Trabalhando na linha: 27
+2023/02/23-16:48:45-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:45-Trabalhando na linha: 28
+2023/02/23-16:48:45-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:45-Trabalhando na linha: 29
+2023/02/23-16:48:45-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:45-Trabalhando na linha: 30
+2023/02/23-16:48:45-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:45-Trabalhando na linha: 31
+2023/02/23-16:48:45-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:45-Trabalhando na linha: 32
+2023/02/23-16:48:45-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:46-Trabalhando na linha: 33
+2023/02/23-16:48:46-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:46-Trabalhando na linha: 34
+2023/02/23-16:48:46-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:46-Trabalhando na linha: 35
+2023/02/23-16:48:46-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:46-Trabalhando na linha: 36
+2023/02/23-16:48:46-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:46-Trabalhando na linha: 37
+2023/02/23-16:48:46-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:46-Trabalhando na linha: 38
+2023/02/23-16:48:46-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:46-Trabalhando na linha: 39
+2023/02/23-16:48:46-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:46-Trabalhando na linha: 40
+2023/02/23-16:48:46-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:46-Trabalhando na linha: 41
+2023/02/23-16:48:46-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:47-Trabalhando na linha: 42
+2023/02/23-16:48:47-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:47-Trabalhando na linha: 43
+2023/02/23-16:48:47-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:47-Trabalhando na linha: 44
+2023/02/23-16:48:47-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:47-Trabalhando na linha: 45
+2023/02/23-16:48:47-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:47-Trabalhando na linha: 46
+2023/02/23-16:48:47-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:47-Trabalhando na linha: 47
+2023/02/23-16:48:47-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:47-Trabalhando na linha: 48
+2023/02/23-16:48:47-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:47-Trabalhando na linha: 49
+2023/02/23-16:48:47-Fone:None, Nome:None, Texto:None
+2023/02/23-16:48:47-Trabalhando na linha: 50
+2023/02/23-16:48:47-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:39-Iniciado rotina
+2023/02/23-16:49:39-Trabalhando na linha: 2
+2023/02/23-16:49:39-Fone:5541995789107, Nome:israel, Texto:teste1
+2023/02/23-16:49:40-Trabalhando na linha: 3
+2023/02/23-16:49:40-Fone:5541995789107, Nome:glixinski, Texto:teste2
+2023/02/23-16:49:40-Trabalhando na linha: 4
+2023/02/23-16:49:40-Fone:5541995789107, Nome:ultimo, Texto:teste2
+2023/02/23-16:49:40-Trabalhando na linha: 5
+2023/02/23-16:49:40-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:40-Trabalhando na linha: 6
+2023/02/23-16:49:40-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:40-Trabalhando na linha: 7
+2023/02/23-16:49:40-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:40-Trabalhando na linha: 8
+2023/02/23-16:49:40-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:40-Trabalhando na linha: 9
+2023/02/23-16:49:40-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:40-Trabalhando na linha: 10
+2023/02/23-16:49:41-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:41-Trabalhando na linha: 11
+2023/02/23-16:49:41-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:41-Trabalhando na linha: 12
+2023/02/23-16:49:41-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:41-Trabalhando na linha: 13
+2023/02/23-16:49:41-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:41-Trabalhando na linha: 14
+2023/02/23-16:49:41-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:41-Trabalhando na linha: 15
+2023/02/23-16:49:41-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:41-Trabalhando na linha: 16
+2023/02/23-16:49:41-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:41-Trabalhando na linha: 17
+2023/02/23-16:49:41-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:42-Trabalhando na linha: 18
+2023/02/23-16:49:42-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:42-Trabalhando na linha: 19
+2023/02/23-16:49:42-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:42-Trabalhando na linha: 20
+2023/02/23-16:49:42-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:42-Trabalhando na linha: 21
+2023/02/23-16:49:42-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:42-Trabalhando na linha: 22
+2023/02/23-16:49:42-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:42-Trabalhando na linha: 23
+2023/02/23-16:49:42-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:42-Trabalhando na linha: 24
+2023/02/23-16:49:42-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:43-Trabalhando na linha: 25
+2023/02/23-16:49:43-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:43-Trabalhando na linha: 26
+2023/02/23-16:49:43-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:43-Trabalhando na linha: 27
+2023/02/23-16:49:43-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:43-Trabalhando na linha: 28
+2023/02/23-16:49:43-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:43-Trabalhando na linha: 29
+2023/02/23-16:49:43-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:43-Trabalhando na linha: 30
+2023/02/23-16:49:43-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:43-Trabalhando na linha: 31
+2023/02/23-16:49:43-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:43-Trabalhando na linha: 32
+2023/02/23-16:49:43-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:44-Trabalhando na linha: 33
+2023/02/23-16:49:44-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:44-Trabalhando na linha: 34
+2023/02/23-16:49:44-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:44-Trabalhando na linha: 35
+2023/02/23-16:49:44-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:44-Trabalhando na linha: 36
+2023/02/23-16:49:44-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:44-Trabalhando na linha: 37
+2023/02/23-16:49:44-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:44-Trabalhando na linha: 38
+2023/02/23-16:49:44-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:44-Trabalhando na linha: 39
+2023/02/23-16:49:44-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:45-Trabalhando na linha: 40
+2023/02/23-16:49:45-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:45-Trabalhando na linha: 41
+2023/02/23-16:49:45-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:45-Trabalhando na linha: 42
+2023/02/23-16:49:45-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:45-Trabalhando na linha: 43
+2023/02/23-16:49:45-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:45-Trabalhando na linha: 44
+2023/02/23-16:49:45-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:45-Trabalhando na linha: 45
+2023/02/23-16:49:45-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:45-Trabalhando na linha: 46
+2023/02/23-16:49:45-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:46-Trabalhando na linha: 47
+2023/02/23-16:49:46-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:46-Trabalhando na linha: 48
+2023/02/23-16:49:46-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:46-Trabalhando na linha: 49
+2023/02/23-16:49:46-Fone:None, Nome:None, Texto:None
+2023/02/23-16:49:46-Trabalhando na linha: 50
+2023/02/23-16:49:46-Fone:None, Nome:None, Texto:None

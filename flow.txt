@@ -1,0 +1,19 @@
+janela
+
+
+
+planilha
+
+
+verifica se existe conversa
+verifica se o contato está salvo
+
+
+tempo minimo
+tempo maximo
+
+
+
+
+
+
