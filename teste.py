@@ -1,18 +1,9 @@
-from openpyxl import load_workbook
+texto = '5541995789107'
 
+corte = texto[-4:]
 
-arquivo_xlsx = load_workbook('Dados.xlsx')
-planilha = arquivo_xlsx['Contatos']
+print(corte)
 
-b = ws['D1'].value
-
-
-print (b)
-
-
-ws['D1'] = "modificghjgar"
-
-wb.save('Dados.xlsx')
 
 
 

@@ -69,29 +69,6 @@ class Session:
         arquivo_log2.close()                                                                    # * 
         pass
 
-    def old(self):
-        zap = navegador.Sessao()
-        self.registrando('Abrindo navegador')
-        zap.iniciar_navegador()
-        self.registrando('Acessado WhatsApp')
-
-        arquivo_txt = open('Dados.txt','r',encoding='utf-8')
-        leitura_arquivo_txt = arquivo_txt.read()
-        lista_arquivo_txt = leitura_arquivo_txt.splitlines()
-
-        qt_linhas = len(lista_arquivo_txt)
-        registrando(f'Temos {qt_linhas} mensagens para enviar')
-        cont_msg = 1
-        for item in lista_arquivo_txt:
-            item = item.split(';')
-            numero      = item[0]
-            pessoa      = item[1]
-            mensagem    = item[2]
-            texto           = urllib.parse.quote(f"Oi {pessoa}! {mensagem}")
-            zap.send_msg(numero,texto)
-            registrando(f'Enviado a mensagem {cont_msg}')
-            cont_msg = cont_msg +1
-
     def rotina(self):
         self.registrando('Iniciado rotina')
         zap = navegador.Sessao()
@@ -112,7 +89,10 @@ class Session:
             texto       = urllib.parse.quote(f"Oi {cliente}! {mensagem}")
 
             self.registrando(f'Trabalhando na linha: {linha}     Fone: {telefone},      Nome: {cliente}')
-            zap.send_msg(telefone,texto)
+            envio_zap = zap.send_msg(telefone,texto)
+
+            self.planilha[f'D{linha}'] = f'{envio_zap}'
+            self.arquivo_xlsx.save(f'{config.path_dir}/Dados.xlsx')
 
             #############################################################
             tempo_linha_fin         = datetime.now()

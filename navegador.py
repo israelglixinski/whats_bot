@@ -42,9 +42,49 @@ class Sessao:
         link    = f"https://web.whatsapp.com/send?phone={numero}&text={texto}"
         self.navegador.get(link)
         self.try_wait()
-        self.navegador.find_element(By.XPATH,'//*[@id="main"]/footer/div[1]/div/span[2]/div/div[2]/div[2]/button/span').click()
+
+        try: 
+            self.navegador.find_element(By.XPATH,'//*[@id="app"]/div/span[2]/div/span/div/div/div/div/div/div[2]/div/div/div/div').click()
+            retorno = 'nu_invalido'
+        except:
+            no_nu_contact = self.navegador.find_element(By.XPATH,'//*[@id="main"]/header/div[2]/div/div/span').get_attribute('innerHTML')
+            if str(no_nu_contact)[-4:] == str(numero)[-4:]: 
+              
+                enviar = 'sim'
+
+                lista_xpath = [
+
+                 '//*[@id="main"]/div[2]/div/div[2]/div[2]/div[3]/div/div/div[1]/div[1]/div[1]/div'
+                ,'//*[@id="main"]/div[2]/div/div[2]/div[2]/div[10]/div/div/div[1]/div[1]/div[1]/div/span[1]/span'
+                ,'//*[@id="main"]/div[2]/div/div[2]/div[2]/div[9]/div/div/div[1]/div[1]/div[1]/div/span[1]/span'
+                ,'//*[@id="main"]/div[2]/div/div[2]/div[2]/div[8]/div/div/div[1]/div[1]/div[1]/div/span[1]/span'
+                ,'//*[@id="main"]/div[2]/div/div[2]/div[3]/div[2]/div/div/div[1]/div[1]/div/div[2]/div'
+                ,'//*[@id="main"]/div[2]/div/div[2]/div[3]/div[3]/div/div/div[1]/div[1]'
+                ,'//*[@id="main"]/div[2]/div/div[2]/div[3]/div[2]/div/div/div[1]/span[2]'
+                ]
+                
+                for xpht in lista_xpath:
+                    try:
+                        history = self.navegador.find_element(By.XPATH,xpht).get_attribute('innerHTML')
+                        print(history)
+                        enviar = 'nao'
+                    except: pass
+
+                if enviar == 'sim':
+                    # self.navegador.find_element(By.XPATH,'//*[@id="main"]/footer/div[1]/div/span[2]/div/div[2]/div[2]/button/span').click()
+                    retorno = 'enviado'
+                else:
+                    retorno = 'tem_msg'
+
+
+            else:
+                retorno = 'nu_salvo'
+
         sleep(10)
 
+
+
+        return retorno
 
 
  
