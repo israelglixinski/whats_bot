@@ -83,7 +83,22 @@ class Sessao:
                         except: pass
 
                     if enviar == 'sim':
-                        self.navegador.find_element(By.XPATH,'//*[@id="main"]/footer/div[1]/div/span[2]/div/div[2]/div[2]/button/span').click()
+                       
+                        
+                        try: self.navegador.find_element(By.XPATH,'/html/body/div[1]/div/div/div[4]/div/footer/div[1]/div/span[2]/div/div[2]/div[1]/div/div[1]/p').send_keys(Keys.ENTER)
+                        except:
+                            try: self.navegador.find_element(By.XPATH,'/html/body/div[1]/div/div/div[4]/div/footer/div[1]/div/span[2]/div/div[2]/div[1]/div/div/p').send_keys(Keys.ENTER)
+                            except:
+                                try: self.navegador.find_element(By.XPATH,'/html/body/div/div[1]/div[1]/div[4]/div[1]/footer/div[1]/div[2]/div/div[2]').click()
+                                except: self.navegador.find_element(By.CSS_SELECTOR,'button.tvf2evcx > span:nth-child(1)').click()
+                        
+                       
+                        # self.navegador.find_element(By.XPATH,'//*[@id="main"]/footer/div[1]/div/span[2]/div/div[2]/div[2]/button/span').click()
+                        # self.navegador.find_element(By.XPATH,'//*[@id="main"]/footer/div[1]/div/span[2]/div/div[2]/div[2]/button/span').click()
+                       
+                       
+                       
+                       
                         retorno = 'enviado'
                     else:
                         retorno = 'tem_msg'
