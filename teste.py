@@ -1,11 +1,8 @@
-texto = '5541995789107'
-
-corte = texto[-4:]
-
-print(corte)
+from openpyxl import load_workbook
 
 
 
-
+arquivo_xlsx = load_workbook(f'Dados.xlsx')
+planilha = arquivo_xlsx['Contatos']
 
 

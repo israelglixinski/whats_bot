@@ -6,20 +6,42 @@ import config
 def gravar():
     arquivo_xlsx = load_workbook(f'{config.path_dir}/Dados.xlsx')
     planilha = arquivo_xlsx['Contatos']
-    planilha['A2'] = '554599555633'
-    planilha['A3'] = '554796959942'
-    planilha['A4'] = '554797130128'
-    planilha['A5'] = '556798849942'
+
+
+    planilha['A1'] = 'Número'
+    planilha['A2'] = '5541995789107'
+    planilha['A3'] = '5541995789107'
+    planilha['A4'] = '5541995789107'
+    planilha['A5'] = '5541995789107'
     
+
+    planilha['B1'] = 'Mensagem'
+    planilha['B2'] = 'Teste1'
+    planilha['B3'] = 'Teste2'
+    planilha['B4'] = 'Teste3'
+    planilha['B5'] = 'Teste4'
     
+
+    planilha['C1'] = 'Status'
+    planilha['C2'] = ''
+    planilha['C3'] = ''
+    planilha['C4'] = ''
+    planilha['C5'] = ''
     
-    
-    
+
+    planilha['D1'] = ''
     planilha['D2'] = ''
     planilha['D3'] = ''
     planilha['D4'] = ''
     planilha['D5'] = ''
+    
 
+    planilha['E1'] = ''
+    planilha['E2'] = ''
+    planilha['E3'] = ''
+    planilha['E4'] = ''
+    planilha['E5'] = ''
+    
 
     arquivo_xlsx.save(f'{config.path_dir}/Dados.xlsx')
 
@@ -28,20 +50,20 @@ def gravar():
 
 def visualizar():
 
-    for item in range(4):
+    for item in range(5):
 
         arquivo_xlsx = load_workbook(f'{config.path_dir}/Dados.xlsx')
         planilha = arquivo_xlsx['Contatos']
     
-        linha = item + 2
-        fone    = planilha[f'A{linha}'].value
-        nome    = planilha[f'B{linha}'].value
-        texto   = planilha[f'C{linha}'].value
-        status  = planilha[f'D{linha}'].value        
+        linha = item + 1
+        AAA = planilha[f'A{linha}'].value
+        BBB = planilha[f'B{linha}'].value
+        CCC = planilha[f'C{linha}'].value
+        DDD = planilha[f'D{linha}'].value        
     
-        print(f'{fone}---{nome}---{texto}---{status}')
+        print(f'{AAA}---{BBB}---{CCC}')
 
 
 
-# gravar()
+gravar()
 visualizar()

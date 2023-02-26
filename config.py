@@ -1,6 +1,6 @@
 
 softer_name         = 'WHATS_BOT'
-softer_version      = '1.0.1'
+softer_version      = '1.0.6'
 
 script_main         = 'main'
 script_robo         = 'robo'
