@@ -27,12 +27,12 @@ os.system(cmd_del_shortcut)
 
 
 ##### * COMPILA O SCRIPT PRINCIPAL DO SOFTER
-os.system(f"""pyinstaller --add-data "c:\\Users\Israel\\anaconda3\\Lib\\site-packages\\customtkinter;customtkinter/" --noconfirm {config.script_main}.pyw""")
+os.system(f"""pyinstaller --add-data "c:\\Users\Israel\\anaconda3\\Lib\\site-packages\\customtkinter;customtkinter/" --noconfirm {config.script_main}.py""")
 
 
 
 ##### * COMPILA O SCRIPT DA MAQUINA DO ROBO
-os.system(f"""pyinstaller --noconfirm {config.script_robo}.pyw""")
+os.system(f"""pyinstaller --noconfirm {config.script_robo}.py""")
 
 
 

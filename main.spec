@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(
-    ['main.pyw'],
+    ['main.py'],
     pathex=[],
     binaries=[],
     datas=[('c:\\Users\\Israel\\anaconda3\\Lib\\site-packages\\customtkinter', 'customtkinter/')],

@@ -5,7 +5,7 @@ block_cipher = None
 
 
 a = Analysis(
-    ['robo.pyw'],
+    ['robo.py'],
     pathex=[],
     binaries=[],
     datas=[],

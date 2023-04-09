@@ -5,7 +5,24 @@
         "**/.hg": true,
         "**/CVS": true,
         "**/.DS_Store": true,
-        "**/Thumbs.db": true
+        "**/Thumbs.db": true,
+        "teste.spec": true,
+        "main.spec": true,
+        "robo.spec": true,
+        "README.md": true,
+        "installer.spec": true,
+        "chromedriver.exe": true,
+        ".vscode": true,
+        "__pycache__": true
     },
-    "hide-files.files": []
+    "hide-files.files": [
+        "teste.spec",
+        "main.spec",
+        "robo.spec",
+        "README.md",
+        "installer.spec",
+        "chromedriver.exe",
+        ".vscode",
+        "__pycache__"
+    ]
 }
