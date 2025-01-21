@@ -10,8 +10,6 @@ import banco
 import base64
 import subprocess
 
-
-
 class Ferramentas:
     def salva_teste(nome_teste,resultado):
         """ # Salva um arquivo de teste com o resultado obtido
@@ -39,8 +37,6 @@ class Ferramentas:
         enc = f.encrypt(senha.encode())
         enc = str(str(enc).replace("b'", "")).replace("'",'')
         return enc
-
-
 
 class ignition:
 
@@ -81,24 +77,6 @@ class ignition:
         os.system(f'taskkill /im {config.softer_name}_{config.softer_version}.exe /f')
         sleep(5)
 
-
-    def verifica_senha_sigal(self):
-        self.feedback.put(['...',None,'bloquear'])
-        self.registrando('Conferindo a senha, Aguarde...')
-
-        # login_contrato = nav_sigal.login(self.usuario,self.senha)
-        # nav_sigal.close_session()
-
-        # if login_contrato == 'ok':  
-        #     self.registrando('Senha confirmada')
-        #     self.gerencia()
-        # else:                       
-        #     self.registrando('Não foi possivel confirmar a senha')
-        #     self.feedback.put(['...',None,'desbloquear'])
-        pass
-
-
-
     def reinicializar(self):
         cont_pid = 0
         for pid in self.lista_pids_filhos:
@@ -115,7 +93,6 @@ class ignition:
         for processo in primeiro_nivel.children(recursive=True):
             if processo.pid not in self.lista_pids_filhos: 
                 self.lista_pids_filhos.append(processo.pid)
-
 
     def define_configuracoes(self):
         self.modo_navegador     = 'oculto'                                                                 # * CONFIGURAÇÃO PADRÃO: FIREFOX EXECUTA OCULTO
@@ -144,10 +121,6 @@ class ignition:
                 if chave == 'linha_fin' : self.linha_fin = int(valor)
             arquivo.close()
         except: pass
-
-
-
-
 
     def gerencia(self):
         self.feedback.put(['...',None,'bloquear'])
@@ -204,12 +177,3 @@ class ignition:
         sleep(5)
 
         self.feedback.put(['...',None,'desbloquear'])
-        
-
-
-
-
-
-
-
-
